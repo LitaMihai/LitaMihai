@@ -1,6 +1,6 @@
 ## Hi, I'm [Mihai](https://litamihai.github.io/Website-Portfolio/)!
 
-I have a strong enthusiasm for various aspects of software development, including ***Back-end***, ***Front-end*** and ***Application Development***. When I embark on a learning journey or initiate a new project, my approach involves first *conceptualizing* the overall scope and then progressively *refining* the finer details. This method allows me to deliver *professional* and *polished* results.</h3>
+I have a strong enthusiasm for various aspects of software development, including ***Back-end***, ***Front-end***, ***Web*** and ***Desktop Application Development***. When I embark on a learning journey or initiate a new project, my approach involves first *conceptualizing* the overall scope and then progressively *refining* the finer details. This method allows me to deliver *professional* and *polished* results.</h3>
 
 Programming Languages:<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
