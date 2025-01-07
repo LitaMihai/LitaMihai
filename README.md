@@ -28,7 +28,7 @@ Markup & Styling:<br/>
 ![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat&logo=css3)
 ![Markdown](https://img.shields.io/badge/Markdown-555555?style=flat&logo=markdown)
 
-🌍 My portfolio: **[litamihai.com](https://litamihai.github.io/Website-Portfolio/)**
+🌍 My portfolio: **[litamihai.com](https://litamihai.github.io/Portfolio-Website/)**
 
 🥂 Social:<br/>
 <a href="https://www.linkedin.com/in/mihai-lita-659909227/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
