@@ -16,9 +16,7 @@ Programming Languages:<br/>
 
 Frameworks & Tools:<br/>
 ![Angular](https://img.shields.io/badge/Angular-444444?style=flat&logo=angular)
-![React](https://img.shields.io/badge/React-444444?style=flat&logo=react)
 ![Spring](https://img.shields.io/badge/Spring-444444?style=flat&logo=spring)
-![Express.js](https://img.shields.io/badge/Express.js-444444?style=flat&logo=express)
 ![Linux](https://img.shields.io/badge/Linux-444444?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-444444?style=flat&logo=git&logoColor=F05032)
 ![SVN](https://img.shields.io/badge/SVN-444444?style=flat&logo=svn)
